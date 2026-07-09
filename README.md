@@ -8,10 +8,6 @@ This repository documents my journey to becoming an AI Automation Consultant.
 
 Build practical AI automation solutions that save businesses time and money.
 
-## Projects
-
-- Coming soon...
-
 ## Tech Stack
 
 - n8n
@@ -19,3 +15,31 @@ Build practical AI automation solutions that save businesses time and money.
 - APIs
 - Google Workspace
 - GitHub
+## Completed Projects
+
+### 1. AI Telegram Assistant
+
+**Description**
+
+An AI assistant built with n8n that can:
+
+- answer general questions
+- remember user information
+- calculate mathematical expressions
+- provide real-time weather
+- summarize Ethereum news
+
+**Tools**
+
+- n8n
+- OpenAI
+- Telegram Bot API
+- Open-Meteo API
+
+**Status**
+
+✅ Completed
+
+**Screenshots**
+
+Coming soon...
