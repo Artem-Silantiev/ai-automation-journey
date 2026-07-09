@@ -2,44 +2,70 @@
 
 Hi! I'm Artem.
 
-This repository documents my journey to becoming an AI Automation Consultant.
+I'm learning AI Automation by building real-world business solutions with n8n, OpenAI and APIs.
 
-## Goal
+My goal is to help businesses automate repetitive tasks and save time.
 
-Build practical AI automation solutions that save businesses time and money.
+---
+
+## Project
+
+### AI Telegram Assistant
+
+An intelligent Telegram assistant built with n8n.
+
+### Features
+
+- 🤖 AI conversations using OpenAI
+- 🌤️ Real-time weather information
+- 🧠 User memory
+- ➗ Mathematical calculations
+- 📰 Ethereum news summaries
+- 🌍 Multi-language support
+
+---
 
 ## Tech Stack
 
 - n8n
-- OpenAI
-- APIs
-- Google Workspace
-- GitHub
-## Completed Projects
-
-### 1. AI Telegram Assistant
-
-**Description**
-
-An AI assistant built with n8n that can:
-
-- answer general questions
-- remember user information
-- calculate mathematical expressions
-- provide real-time weather
-- summarize Ethereum news
-
-**Tools**
-
-- n8n
-- OpenAI
+- OpenAI API
 - Telegram Bot API
 - Open-Meteo API
 
-**Status**
+---
+
+## Workflow
+
+![Workflow](screenshots/workflow.png)
+
+---
+
+## Screenshots
+
+### Weather
+
+![Weather](screenshots/telegram-weather-demo.png)
+
+### Memory
+
+![Memory](screenshots/telegram-memory-demo.png)
+
+### Calculator
+
+![Calculator](screenshots/telegram-calculator-demo.png)
+
+### Multi Tool
+
+![Multi Tool](screenshots/telegram-multi-tool-demo.png)
+
+### Multiple Tasks
+
+![Multiple Tasks](screenshots/telegram-multi-tasks-demo.png)
+
+---
+
+## Status
 
 ✅ Completed
 
-**Screenshots**
-
-![Telegram Multi Tool](screenshots/telegam-multi-tool-demo.png)
+More AI automation projects coming soon.
