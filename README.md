@@ -42,4 +42,4 @@ An AI assistant built with n8n that can:
 
 **Screenshots**
 
-Coming soon...
+![Telegram Multi Tool](screenshots/telegram-multi-tool-demo.png)
